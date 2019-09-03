@@ -23,3 +23,14 @@ Computer Theories
 
 Programming
 ===========
+## Architecture, Methodology
+* Clean Code - Robert C. Martin
+* Clean Architecture(Reading) - Robert C. Martin
+* Design Patterns: Elements of Reusable Object-Oriented Software(Reading) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
+
+## Framework
+
+## Language
+
+DevOps, Tools
+=============
